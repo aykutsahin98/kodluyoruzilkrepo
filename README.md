@@ -6,9 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-```bash
-git clone https://github.com/aykutsahin98/kodluyoruzilkrepo.git
-```
+https://github.com/aykutsahin98/kodluyoruzilkrepo.git
 
 ## Usage
 
@@ -26,3 +24,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+https://app.patika.dev/ayktsahinn
